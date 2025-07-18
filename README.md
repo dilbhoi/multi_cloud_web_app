@@ -37,15 +37,6 @@ This task demonstrates cloud interoperability by connecting services deployed on
 
 ---
 
-## 📸 Screenshots
-
-> Add the following screenshots:
-- Deployed S3 bucket with static hosting URL
-- Cloud Run dashboard showing deployed container
-- Working web app with response output
-
----
-
 ## ✍️ How to Run
 
 1. Clone or download this repository.
